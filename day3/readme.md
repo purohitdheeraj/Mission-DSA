@@ -1,4 +1,4 @@
 # day 3
-- Leap year
-- First non-repeating character
-- Compare two arrays II
+- Leap year - easy
+- First non-repeating character - medium
+- Compare two arrays II - expert
